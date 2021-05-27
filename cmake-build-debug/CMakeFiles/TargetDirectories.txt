@@ -1,0 +1,3 @@
+C:/Users/dciri/CLionProjects/Banking System/cmake-build-debug/CMakeFiles/Banking_System.dir
+C:/Users/dciri/CLionProjects/Banking System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dciri/CLionProjects/Banking System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
